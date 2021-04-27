@@ -12,7 +12,7 @@ export const CustomView = styled.View`
   width: 100%;
   height: 584px;
   left: 0;
-  top: 312px;
+  top: 280px;
 
   border-radius: 30px;
 

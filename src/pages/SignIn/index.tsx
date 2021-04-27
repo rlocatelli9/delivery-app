@@ -1,5 +1,5 @@
 import React from 'react';
-import {Image, StatusBar, SafeAreaView, Text} from 'react-native';
+import {Image, StatusBar, SafeAreaView} from 'react-native';
 
 import {
   CustomHeaderContainer,
